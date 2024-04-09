@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## 0.3.0
+
+### Features
+
+- ✅ ADDED: PEC solved.
+
 ## 0.2.0
 
 ### Features
